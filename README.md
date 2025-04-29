@@ -25,7 +25,7 @@ Key observations:
 •	Age of property inversely correlates with Sale Price in many cases.
 📈 Statistics and Insights
 •	Average Sale Price: ₹10894909.64 (based on dataset calculations)
-•	Top 5 expensive localities: Below Listed PRT_ID’s are the top 5 expensie localities based on SALES_PRICE  
+•	Top 5 expensive localities: Below Listed PRT_ID’s are the top 5 expensive localities based on SALES_PRICE  
 o	P08983
 o	P02996
 o	P00067
